@@ -1,8 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-            <button class="accordion2">Bill Split</button>
-            <div class="panel">
-                <p id="work-text">This project is built for splitting the bill of people.We go on trip with friends and after coming back the main task is to split bill.So this project helps in splitting the bill.</p>
-                <a href="https://github.com/prajwalsingla3014/Library-System" target="_blank" class="project-link"><span id="project-text">Visit here</span></a>
-            </div>app).
+
 
 This project is built on React.In this project you can go through various city tours.There is a button on info where u can slide for info of city attraction and also one close button for removing that city entry.
 
